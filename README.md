@@ -11,6 +11,6 @@ My favorit Icecream flavors:
 - Pepermint Stick
 - Mint Chip
 
-Laca's favorit flavors:
-- citone
-- caramel
+Laszlo's favorite flavors:
+citrone
+caramel
