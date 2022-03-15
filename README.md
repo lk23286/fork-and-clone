@@ -39,5 +39,6 @@ Chicken breast
 
 # Color
 
-My favorite color is Gree
+My favorite color is Green
 
+Mate's favorit color is the Braun
