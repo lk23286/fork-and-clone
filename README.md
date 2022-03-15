@@ -26,4 +26,4 @@ Laca's favorit flavours:
 - caramel
 
 Mate's favorit flavour:
-MAte is not an ice cream fan :)
+Mate is not an ice cream fan :)
