@@ -42,3 +42,5 @@ who knows maybe the blue :)
 
 Agi's favorite flavour:
 ping
+
+Eszter's favorite colour is cyan 
