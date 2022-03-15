@@ -33,3 +33,6 @@ Juditmama's favorite ice cream flavour:
 
 Karma's favorite flavour:
 meat ?!
+
+Bodza's favorite flavour:
+Chicken breast
