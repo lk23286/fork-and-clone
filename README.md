@@ -17,3 +17,13 @@ caramel
 
 Mark's favorite flavors:
 Bird Milk 
+My favorit Icecream flavours:
+- Pepermint Stick
+- Mint Chip
+
+Laca's favorit flavours:
+- citone
+- caramel
+
+Mate's favorit flavour:
+MAte is not an ice cream fan :)
