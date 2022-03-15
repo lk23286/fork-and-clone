@@ -30,3 +30,7 @@ Mate's favorite flavour:
 
 Baby's favorite flavour: 
  - strawberry without sugar
+
+Juditmama's favorite ice cream flavour:
+- citrone
+- caramel
