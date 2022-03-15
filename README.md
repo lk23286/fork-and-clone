@@ -34,3 +34,6 @@ Baby's favorite flavour:
 Juditmama's favorite ice cream flavour:
 - citrone
 - caramel
+
+Karma's favorite flavour:
+meat ?!
