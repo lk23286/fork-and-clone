@@ -50,5 +50,8 @@ Mark's color is Blue
 
 Baby's color is red
 
+Szilard's color is blue
+
+
 
 
