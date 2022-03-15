@@ -44,3 +44,6 @@ My favorite color is Green
 Mate's favorit color is the Braun
 
 Mark's color is Blue
+Zoli's favorite flavour:
+who knows maybe the blue :)
+
