@@ -37,13 +37,18 @@ meat ?!
 Bodza's favorite flavour:
 Chicken breast
 
+Zoli's favorite flavour:
+who knows maybe the blue :)
+
 # Color
 
 My favorite color is Green
 
 Mate's favorit color is the Braun
 
-Mark's color is Blue
-Zoli's favorite flavour:
-who knows maybe the blue :)
+Mark's color is Blue 
+
+Baby's color is red
+
+
 
