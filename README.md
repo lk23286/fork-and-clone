@@ -36,3 +36,7 @@ meat ?!
 
 Bodza's favorite flavour:
 Chicken breast
+
+Zoli's favorite flavour:
+who knows maybe the blue :)
+
