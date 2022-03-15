@@ -40,3 +40,5 @@ Chicken breast
 Zoli's favorite flavour:
 who knows maybe the blue :)
 
+Agi's favorite flavour:
+ping
