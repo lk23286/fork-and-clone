@@ -21,10 +21,6 @@ My favorit Icecream flavours:
 - Pepermint Stick
 - Mint Chip
 
-Laca's favorite flavours:
-- citone
-- caramel
-
 Mate's favorite flavour:
  - Mate is not an ice cream fan :)
 
