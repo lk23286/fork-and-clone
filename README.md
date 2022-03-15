@@ -12,8 +12,8 @@ My favorit Icecream flavors:
 - Mint Chip
 
 Laszlo's favorite flavors:
-citrone
-caramel
+- citrone
+- caramel
 
 Mark's favorite flavors:
 Bird Milk 
@@ -21,9 +21,12 @@ My favorit Icecream flavours:
 - Pepermint Stick
 - Mint Chip
 
-Laca's favorit flavours:
+Laca's favorite flavours:
 - citone
 - caramel
 
-Mate's favorit flavour:
-Mate is not an ice cream fan :)
+Mate's favorite flavour:
+ - Mate is not an ice cream fan :)
+
+Baby's favorite flavour: 
+ - strawberry without sugar
