@@ -40,6 +40,7 @@ Chicken breast
 Zoli's favorite flavour:
 who knows maybe the blue :)
 
+<<<<<<< HEAD
 # Color
 
 My favorite color is Green
@@ -55,3 +56,7 @@ Szilard's color is blue
 
 
 
+=======
+Agi's favorite flavour:
+ping
+>>>>>>> fb3de7fcb03b7a38531f80fc7471976478c9c66c
