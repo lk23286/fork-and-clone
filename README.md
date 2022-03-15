@@ -36,3 +36,8 @@ meat ?!
 
 Bodza's favorite flavour:
 Chicken breast
+
+# Color
+
+My favorite color is Gree
+
